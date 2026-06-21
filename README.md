@@ -53,3 +53,5 @@ Workforce trends and patterns
 Email Automation
 
 Automatically delivers the generated report via email, reducing manual reporting effort.
+
+<img width="721" height="766" alt="Image" src="https://github.com/user-attachments/assets/4c86f3ce-ba2d-4b8d-8a6a-180b0c5513b1" />
